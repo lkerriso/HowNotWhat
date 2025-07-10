@@ -1,6 +1,6 @@
 # How Not What 🎥
 
-Welcome to the official repository for **How Not What**, a developer-focused YouTube and social channel where we show you **how to run technical demos — not just what they are.**  
+Welcome to the official repository for **How Not What**, a developer-focused YouTube and social channel where **we go beyond mentioning the existance of cool technical things — to show you the 'how'.**  
 
 Whether you're new to AI, DevOps, or cloud-native tools, this repo contains all the **code, prompts, instructions, and configurations** needed to reproduce every demo we show.
 
@@ -34,13 +34,6 @@ We welcome issues or PRs that:
 - Suggest new lightweight demos
 
 If you're a viewer replicating a demo and hit a snag — let us know!
-
----
-
-## 💡 Why “How Not What”?
-
-Most tech content tells you *what* something is.  
-We focus on showing you *how* to do something with it — in the shortest, clearest way possible.
 
 ---
 
