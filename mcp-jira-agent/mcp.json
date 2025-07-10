@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "mcp-atlassian": {
+      "command": "uvx",
+      "args": ["mcp-atlassian"],
+      "env": {
+        "JIRA_URL": "https://issues.redhat.com",
+        "JIRA_USERNAME": "YOUR JIRA USERNAME HERE",
+        "JIRA_PERSONAL_TOKEN": "YOUR PERSONAL ACCESS TOKEN HERE",
+        "JIRA_PROJECTS_FILTER": "HPCFE",
+        "ENABLED_TOOLS": "jira_get_issue,jira_search,jira_create_issue,jira_update_issue,jira_delete_issue,jira_add_comment,jira_transition_issue,jira_get_transitions"
+      }
+    }
+  }
+}
